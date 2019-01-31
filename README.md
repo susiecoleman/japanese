@@ -1,4 +1,6 @@
-Empty mkdocs template
+# Japanese
+
+[https://susiecoleman.github.io/japanese/](https://susiecoleman.github.io/japanese/)
 
 ## Running the Prject
 
